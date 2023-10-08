@@ -10,6 +10,6 @@ bad day, every animal becomes a bit sadder and their exhilaration level decrease
 by 5, of the birds by 3, and of the dogs by 10.
 Cathy’s mood improves by one if the exhilaration level of every alive animal is at least 5.
 Every data is stored in a text file. The first line contains the number of animals. Each of the 
-following lines contain the data of one animal: one character for the type (F – Fish, B – Bird, D-Dog), name of the animal (one word), and the initial level of exhilaration.
+following lines contain the data of one animal: one character for the type (F – Fish, B – Bird, D – Dog), name of the animal (one word), and the initial level of exhilaration.
 In the last line, the daily moods of Cathy are enumerated by a list of characters (g – good, o –
 ordinary, b – bad). The file is assumed to be correct.
