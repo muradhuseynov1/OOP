@@ -1,0 +1,6 @@
+4
+B Bird1 15
+B Bird2 15
+D Dog1 20
+B Dog2 22
+gobb

@@ -1,0 +1,17 @@
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\bin\Debug\net6.0\assigment1_RX15MW.exe
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\bin\Debug\net6.0\assigment1_RX15MW.deps.json
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\bin\Debug\net6.0\assigment1_RX15MW.runtimeconfig.json
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\bin\Debug\net6.0\assigment1_RX15MW.dll
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\bin\Debug\net6.0\assigment1_RX15MW.pdb
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\bin\Debug\net6.0\TextFile.dll
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.AssemblyInfo.cs
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.csproj.CopyComplete
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.dll
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\refint\assigment1_RX15MW.dll
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.pdb
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\assigment1_RX15MW.genruntimeconfig.cache
+C:\Users\husey\Desktop\OOP23\assignment1_RX15MW\assigment1_RX15MW\obj\Debug\net6.0\ref\assigment1_RX15MW.dll

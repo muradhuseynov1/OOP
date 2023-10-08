@@ -1,0 +1,6 @@
+4
+D Dog1 10
+B Bird1 8
+F Fish1 6
+F Fish2 6
+ggob
